@@ -1,4 +1,6 @@
-## Important Note to Epicodus Students
+## Help-queue
+
+refactor of help que to use hooks and noSQL with firebase/firestore for db
 
 This project contains all the code from the LearnHowToProgram.com [Section 2: React Fundamentals](https://www.learnhowtoprogram.com/react/react-fundamentals) coursework in which we created a Help Queue application in [React.js](https://reactjs.org/). 
 
